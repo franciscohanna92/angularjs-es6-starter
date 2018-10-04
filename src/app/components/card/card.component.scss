@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid black;
+
+    .card-header {
+        font-weight: bold;
+        border-bottom: 1px solid black
+    }
+
+    .card-body {
+        font-style: italic
+    }
+
+    .card-footer {
+        text-align: right;
+        border-top: 1px solid black
+    }
+}
